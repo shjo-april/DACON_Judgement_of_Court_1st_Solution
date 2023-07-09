@@ -5,7 +5,11 @@
 - This challenge aims to develop an AI that predicts legal case outcomes. The significance is a crucial step in exploring how AI can be effectively utilized in the field of law.
 
 # 2. Overview & Results
-- TBD
+- The final score is 0.57258 (i.e., 1st place among 837 people).
+![ranking](./figures/ranking.png)
+
+- Overview
+![overview](./figures/overview.png)
 
 # 3. Reproducibility
 - Install libraries for text classification models.
